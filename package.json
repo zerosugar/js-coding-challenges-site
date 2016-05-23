@@ -1,0 +1,24 @@
+{
+  "name": "js-coding-challenges-site",
+  "version": "0.0.1",
+  "description": "Website for JavaScript Coding Challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taptapdan/js-coding-challenges-site.git"
+  },
+  "author": "Daniel Fiore (@taptapdan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taptapdan/js-coding-challenges-site/issues"
+  },
+  "homepage": "https://github.com/taptapdan/js-coding-challenges-site#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "passport": "^0.3.2",
+    "passport-github": "^1.1.0"
+  }
+}
